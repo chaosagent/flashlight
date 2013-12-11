@@ -1,5 +1,4 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
-/flashlight/build/*
 .DS_Store

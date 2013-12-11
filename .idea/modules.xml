@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Flashlight.iml" filepath="$PROJECT_DIR$/Flashlight.iml" />
       <module fileurl="file://$PROJECT_DIR$/flashlight/flashlight.iml" filepath="$PROJECT_DIR$/flashlight/flashlight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flashlight/flashlight-flashlight.iml" filepath="$PROJECT_DIR$/flashlight/flashlight-flashlight.iml" />
     </modules>
   </component>
 </project>
